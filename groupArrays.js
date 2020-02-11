@@ -1,3 +1,4 @@
+//GROUP ARRAYS
 //"groups the arrays into an array of arrays of given length, any remainding go in last array"
 
 const groupArrays = (arr, size) => {
