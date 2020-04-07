@@ -27,6 +27,6 @@ _Difficulty Rating: Medium_
 
 ### Notes
 
-- **No for loops allowed.** Refer to the [Airbnb Style Guide](https://github.com/airbnb/javascript#iterators-and-generators) for more on why "for loops" are disadvantageous to other iterators.
+- **No for loops allowed.** Refer to the [Airbnb Style Guide](https://github.com/airbnb/javascript#iterators-and-generators) for more on why "for loops" are disadvantageous, compared to other iterators.
 
 Pull requests due by 11pm. Happy hacking!
