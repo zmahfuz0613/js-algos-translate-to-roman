@@ -1,8 +1,8 @@
 {
-  "name": "groupArrays",
+  "name": "translateToRoman",
   "version": "1.0.0",
   "description": "",
-  "main": "groupArrays.js",
+  "main": "translateToRoman.js",
   "scripts": {
     "test": "jest"
   },
