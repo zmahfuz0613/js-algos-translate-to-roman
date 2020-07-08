@@ -4,7 +4,9 @@
 
 "Translate to Roman Numerals"
 
-_Difficulty Rating: Medium_
+> Language: JavaScript
+>
+> Difficulty: Medium
 
 ### Objectives
 
@@ -18,15 +20,15 @@ _Difficulty Rating: Medium_
 > 
 > output => `'MMXX'`
 
+#### Notes
+
+- **No for loops allowed.** Refer to the [Airbnb Style Guide](https://github.com/airbnb/javascript#iterators-and-generators) for more on why "for loops" are disadvantageous, compared to other iterators.
+
 ### Getting Started
 
 - Fork and clone this repo.
 - Run `npm i` from within the repo.
 - Run `npm run test` or `npm test` to make sure the tests work. (They should fail.)
 - Get hacking on the problem and test when you think you've got it!
-
-### Notes
-
-- **No for loops allowed.** Refer to the [Airbnb Style Guide](https://github.com/airbnb/javascript#iterators-and-generators) for more on why "for loops" are disadvantageous, compared to other iterators.
 
 Pull requests due by 11pm. Happy hacking!
